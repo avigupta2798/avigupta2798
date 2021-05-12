@@ -4,7 +4,7 @@
 #### Welcome to my profile
 - Final year IT Undergraduate at ADGITM 📚
 
-- Data Analyst Enthusiast 🕸️
+- Data Analytics Enthusiast 🕸️
 
 - Fascinated by Linux and Algorithms 🐱‍💻
 
