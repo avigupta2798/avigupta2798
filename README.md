@@ -19,7 +19,7 @@
 
 
 ### Web Technologies
-<img src='https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=blue'>
+<img src='https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=blue'> <img src='https://img.shields.io/badge/-MySQl-black?style=flat&logo=MySQL&logoColor=blue'>
 
 </br>
 
