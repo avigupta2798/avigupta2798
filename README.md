@@ -2,7 +2,7 @@
 
 
 #### Welcome to my profile
-- Final year IT Undergraduate at ADGITM 📚
+- IT graduate from ADGITM 📚
 
 - Data Analytics Enthusiast 🕸️
 
