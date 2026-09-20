@@ -2,27 +2,9 @@
 
 
 #### Welcome to my profile
-- IT graduate from ADGITM 📚
-
-- Data Analytics Enthusiast 🕸️
-
-- Fascinated by Linux and Algorithms 🐱‍💻
+- PhD Candidate at IIIT Delhi 📚
 
 ![](https://komarev.com/ghpvc/?username=avigupta2798)
-
-
-### Programming Languages
-<img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white"> <img src='https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff'>
-
-
-</br>
-
-
-### Web Technologies
-<img src='https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=blue'> <img src='https://img.shields.io/badge/-MySQl-black?style=flat&logo=MySQL&logoColor=blue'>
-
-</br>
-
 
 
 ### Other tools and preferences
@@ -43,17 +25,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/avigupta2798/
-[gmail]: mailto:avibilasgupta@gmail.com
-
-### Stats
-
-<a href="https://github.com/avigupta2798">
-  <img align="center" style="inline block" src="https://github-readme-stats.vercel.app/api?username=avigupta2798&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/avigupta2798">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avigupta2798&layout=compact&height=195&width=495" />
-</a>
-
+[gmail]: mailto:avig@iiitd.ac.in
 
 
